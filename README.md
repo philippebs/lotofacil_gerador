@@ -13,7 +13,7 @@ source venv/bin/activate
 ## Com o ambiente habilitado instalar as dependências.
 pip install -r requirements.txt 
 
-# Lista de número sorteados
+# Lista de números sorteados
 * 3, 6, 8, 9, 10, 11, 12, 14, 16, 17, 18, 19, 20, 22, 25
 * 1, 5, 6, 7, 8, 10, 12, 13, 14, 18, 20, 21, 22, 23, 24
 * 2, 4, 5, 8, 9, 12, 13, 14, 17, 18, 20, 21, 22, 23, 25
